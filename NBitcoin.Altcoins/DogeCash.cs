@@ -105,7 +105,7 @@ namespace NBitcoin.Altcoins
 				.SetMagic(0x191643a0)
 				.SetPort(56740)
 				.SetRPCPort(51573)
-				.SetMaxP2PVersion(70920)
+				.SetMaxP2PVersion(70921)
 				.SetName("DogeCash-main")
 				.AddAlias("DogeCash-mainnet")
 				.AddDNSSeeds(new[]
